@@ -1,4 +1,3 @@
 # JerseyDemo
 
-This is a demo project for Jersey which include GET with PathParam, QueryParam and JSON.
-Used tomact to run the program and used URIs are mentioned in the method comments.
+This is a demo project for Jersey which display data as XML format. Used hard coded data instead of geting from DB.
